@@ -1,0 +1,26 @@
+:root{
+    /* Theme dark styles */
+    --dark-blue-main: hsl(222, 26%, 31%);
+    --dark-blue-toggle:  hsl(223, 31%, 20%);
+    --dark-blue-screen: hsl(224,36%,15%);
+    --db-key: hsl(225,21%,49%);
+    --db-shadow: hsl(224,28%,35%);
+    --red-back: hsl(6,63%,50%);
+    --dark-red-back: hsl(6,70%,34%);
+    --light-grayish: hsl(30,25%,89%);
+    --grayish-orange: hsl(28,16%,65%);
+    --dgb-test: hst(221,14%,31%);
+    --white: hsl(0.5%,81%);
+    /* Theme white styles */
+    --light-gray-bd: hsl(0,0%,90%);
+    --g-red-bd: hsl(0,5%,81%);
+    --light-gray-bd: hsl(0,0%,93%);
+    --dark-cyan-key:  hsl(185, 42%, 37%);
+    --dark-cyan-shadow: hsl(185, 58%, 25%);
+    --orange:hsl(25, 98%, 40%);
+    --dark-orange-key: hsl(25, 99%, 27%);
+    --light-grayish-yellow-key:  hsl(45, 7%, 89%);
+    --dark-grayish-orange: hsl(35, 11%, 61%);
+    --dark-grayish-text: hsl(60, 10%, 19%);
+    --white-text:hsl(0, 0%, 100%);
+}
